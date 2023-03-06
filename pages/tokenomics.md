@@ -3,32 +3,32 @@ import Callout from 'nextra-theme-docs/callout'
 import { Chart } from "react-google-charts";
 
 <Bleed>
-  ![Velodrome Finance Tokenomics](/velodrome_tokenomics_hero.jpg)
+  ![Expand Exchange Tokenomics](/velodrome_tokenomics_hero.jpg)
 </Bleed>
 
 &nbsp;
 
 # Tokenomics
 
-Velodrome Finance uses two tokens to manage its utility and governance:
+Expand Exchange uses two tokens to manage its utility and governance:
 
- * `$VELO` &mdash; ERC-20 utility token of the protocol
- * `$veVELO` &mdash; ERC-721 governance token in the form of an NFT
+ * `$EXPD` &mdash; ERC-20 utility token of the protocol
+ * `$veEXPD` &mdash; ERC-721 governance token in the form of an NFT
    (non-fungible token)
 
-`$VELO` is used for rewarding liquidity providers through emissions.
+`$EXPD` is used for rewarding liquidity providers through emissions.
 
-`$veVELO` is used for governance. Any `$VELO` holder can vote-escrow their tokens and
-receive a `$veVELO` (also known as veNFT) in exchange. Additional tokens can be
-added to the `$veVELO` NFT at any time.
+`$veEXPD` is used for governance. Any `$EXPD` holder can vote-escrow their tokens and
+receive a `$veEXPD` (also known as veNFT) in exchange. Additional tokens can be
+added to the `$veEXPD` NFT at any time.
 
 The lock period (also known as vote-escrowed period, hence the _ve_ prefix) can be up
 to 4 years, following the linear relationship shown below:
- * 100 `$VELO` locked for 4 years will become 100 `$veVELO`
- * 100 `$VELO` locked for 1 year will become 25 `$veVELO`
+ * 100 `$EXPD` locked for 4 years will become 100 `$veEXPD`
+ * 100 `$EXPD` locked for 1 year will become 25 `$veEXPD`
 
 The longer the vesting time, the higher the voting power (voting weight) and
-rewards the `$veVELO` holder receives.
+rewards the `$veEXPD` holder receives.
 
 ## ve(3,3) Mechanics
 
@@ -37,8 +37,8 @@ Velodrome Finance mechanics reflect a combination of two DeFi concepts:
  * Staking/Rebasing/Bonding or (3,3) game theory &mdash; designed by Olympus DAO
 
 Combined, the _ve(3,3)_ mechanism rewards behaviors correlated with Velodrome's success, such as
-liquidity provision and long-term token holding. Liquidity providers receive `$VELO` emissions,
-and `$veVELO` holders receive protocol fees, bribes, rebases, and governance power.
+liquidity provision and long-term token holding. Liquidity providers receive `$EXPD` emissions,
+and `$veEXPD` holders receive protocol fees, bribes, rebases, and governance power.
 
 ![image](/velodrome-circuit.png)
 
@@ -48,45 +48,14 @@ liquidity pools.
 
 ## Initial Distribution
 
-<Callout emoji="🪂">
-  The airdrop claim period is now complete. Thank you to everyone who
-  participated!
-</Callout>
-
-At launch we distributed `$VELO` and `$veVELO` to
+At launch we distributed `$EXPD` and `$veEXPD` to
 users and protocols we believe are likeliest to contribute to our
 mission to become the liquidity base layer of the Optimism ecosystem.
 
 
 ### Distribution
 
-<Bleed>
-  <Chart
-    chartType="PieChart"
-    data={[
-      [ "Receivers", "Amount" ],
-      [ "Community", 240 ],
-      [ "Partner Protocol/DAOs", 96 ],
-      [ "Velodrome Team", 40 ],
-      [ "Optimism Team", 20 ],
-      [ "Genesis Liquidity Pool", 4 ]
-    ]}
-    options={{
-      title: "$VELO Distribution (M)",
-      backgroundColor: '#111111',
-      colors: ['#79F8DB', '#027FFF', '#FDBF40', '#FF1301', '#F1EBE2', '#FBBF42', '#EDE7DB'],
-      legend: {textStyle: {color: 'white'}},
-      pieHole: 0.4,
-      titleTextStyle: { color: 'white' },
-    }}
-    width={"100%"}
-    height={"600px"}
-  />
-</Bleed>
-
-### Community
-
-240M (60%) `$VELO` tokens will be distributed to the people who have played the biggest role in
+500M (50%) `$EXPD` tokens will be distributed to the people who have played the biggest role in
 incubating Velodrome and those likeliest to contribute to its long-term
 success, including:
  * `$WEVE` holders (27%, 108M `$VELO`)
