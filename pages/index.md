@@ -1,11 +1,7 @@
 import Bleed from 'nextra-theme-docs/bleed'
 import Callout from 'nextra-theme-docs/callout'
 
-<Bleed>
-  ![Expand Exchange]
-</Bleed>
-
-&nbsp;
+# Expand Exchange
 
 # About
 
