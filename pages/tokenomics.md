@@ -173,7 +173,7 @@ An example of bribes, voting, and rewards claim timeline:
  * Bribes are deposited at any point in the epoch
  * Voters vote for their preferred pools
  * Once the next epoch arrives (the following Thursday), users are able to claim rewards from the UI or the corresponding `WrappedExternalBribe` contract
- * 
+ 
 ## Whitelisting
 
 While Expand supports permissionless liquidity pool and gauge creation, these can
