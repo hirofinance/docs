@@ -1,14 +1,14 @@
 import Bleed from 'nextra-theme-docs/bleed'
 
 <Bleed>
-  ![Velodrome Finance Launch](/biker_hero_red.png)
+  ![Expand Exchange Launch](/biker_hero_red.png)
 </Bleed>
 
 &nbsp;
 
 # Legal Disclaimer
 
-Please read this disclaimer carefully before using https://velodrome.finance
+Please read this disclaimer carefully before using https://expand.exchange
 and/or any of its sub-domains (hereinafter referred to as the "Website").
 
 By using the Website, you confirm that you accept this legal disclaimer and
