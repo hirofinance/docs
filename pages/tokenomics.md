@@ -40,8 +40,6 @@ Combined, the _ve(3,3)_ mechanism rewards behaviors correlated with Velodrome's 
 liquidity provision and long-term token holding. Liquidity providers receive `$EXPD` emissions,
 and `$veEXPD` holders receive protocol fees, bribes, rebases, and governance power.
 
-![image](/velodrome-circuit.png)
-
 Below, we will walk through the components of the mechanism in order to
 explain how it helps the incentives flow to the most valuable of the ecosystem
 liquidity pools.
