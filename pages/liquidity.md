@@ -1,14 +1,14 @@
 import Bleed from 'nextra-theme-docs/bleed'
 
 <Bleed>
-  ![Velodrome Finance Launch](/velodrome_biker_hero.png)
+  ![Expand Exchange Launch](/velodrome_biker_hero.png)
 </Bleed>
 
 &nbsp;
 
 # Liquidity Pools
 
-The core functionality of Velodrome Finance is to allow users to trade
+The core functionality of Expand Exchange is to allow users to trade
 digital assets in a secure way, with very low fees and low slippage.
 
 Slippage is the difference between the current market price of an asset and the
@@ -21,7 +21,7 @@ assets:
  * correlated - for example _stable coins_ (`$USDC`, `$DAI`, etc.)
  * uncorrelated - for example `$LINK` and `$CRV`
 
-Velodrome Finance offers two different liquidity pool types based on token pair needs, _Stable
+Expand Exchange offers two different liquidity pool types based on token pair needs, _Stable
 Pools_ and _Variable Pools_.
 
 The protocol router evaluates both pool types to determine the most efficient price quotation
@@ -32,14 +32,14 @@ The _deeper_ the liquidity of a given pool (higher value locked), the smaller th
 
 ## Fees
 
-On Velodrome Finance the trading fees are kept in the originally traded tokens
+On Expand Exchange the trading fees are kept in the originally traded tokens
 (if you trade `$USDC` and `$VELO` the fees will be kept in the same tokens).
 
 The trading fees for both liquidity pool types are 0.02%, and can be adjusted
 for up to 0.05%.
 
 The Variable and Stable liquidity pools can be assigned different trading fees
-on Velodrome Finance.
+on Expand Exchange.
 
 ## Stable Pools
 
