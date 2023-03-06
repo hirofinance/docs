@@ -58,6 +58,6 @@ The goal of these changes is to ensure a healthy equilibrium between voters and 
 
 - First, we modified the emissions growth function to
 
-    > (veVELO.totalSupply ÷ VELO.totalsupply)³ × 0.5 × Emissions
+    > (veNFT.totalSupply ÷ EXPD.totalsupply)³ × 0.5 × Emissions
 
 - Second, we removed negative voting, as we found it too zero-sum.
