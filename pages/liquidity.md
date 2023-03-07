@@ -1,9 +1,5 @@
 import Bleed from 'nextra-theme-docs/bleed'
 
-<Bleed>
-  ![Expand Exchange Launch](/velodrome_biker_hero.png)
-</Bleed>
-
 &nbsp;
 
 # Liquidity Pools
