@@ -45,6 +45,7 @@ explain how it helps the incentives flow to the most valuable of the ecosystem
 liquidity pools.
 
 ## Initial Distribution
+The initial supply of `$EXPD` is 800M.
 
 At launch 500M `EXPD` were minted. 
 * there is a private seed sale a small amount for using LP.
@@ -79,9 +80,6 @@ At launch 500M `EXPD` were minted.
 </Bleed>
 
 ## Emissions
-
-The initial supply of `$EXPD` is 500M.
-
 Weekly emissions start at 15M `$EXPD` (3.75% of the initial supply)
 and decay at 1% per week (epoch).
 
