@@ -1,9 +1,5 @@
 import Bleed from 'nextra-theme-docs/bleed'
 
-<Bleed>
-  ![Expand Exchange Launch](/biker_hero_red.png)
-</Bleed>
-
 &nbsp;
 
 # Legal Disclaimer

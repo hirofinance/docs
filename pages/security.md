@@ -1,10 +1,6 @@
 import Bleed from 'nextra-theme-docs/bleed'
 import Callout from 'nextra-theme-docs/callout'
 
-<Bleed>
-  ![Expand Exchange Launch](/biker_hero.png)
-</Bleed>
-
 &nbsp;
 
 # Security

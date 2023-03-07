@@ -2,10 +2,6 @@ import Bleed from 'nextra-theme-docs/bleed'
 import Callout from 'nextra-theme-docs/callout'
 import { Chart } from "react-google-charts";
 
-<Bleed>
-  ![Expand Exchange Tokenomics](/velodrome_tokenomics_hero.jpg)
-</Bleed>
-
 &nbsp;
 
 # Tokenomics
