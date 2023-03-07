@@ -1,10 +1,8 @@
 {
-  "index": "Velodrome Finance",
-  "protocol": "Protocol Overview",
-  "launch": "Launch Details",
+  "index": "Expand Exchange",
+  "protocol": "Protocol Overview", 
   "tokenomics": "Tokenomics and Emissions",
   "liquidity": "Liquidity Pools",
   "security": "Security",
-  "c4report": "C4 Report",
   "legal": "Legal Disclaimer"
 }
