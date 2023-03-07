@@ -1,9 +1,5 @@
 import Bleed from 'nextra-theme-docs/bleed'
 
-<Bleed>
-  ![Expand Exchange Problem Statement](/velodrome_biker_hero.png)
-</Bleed>
-
 &nbsp;
 
 # Protocol Overview
