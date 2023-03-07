@@ -7,12 +7,12 @@
     "react-dom": "^18.1.0",
     "react-google-charts": "^4.0.0"
   },
-  "name": "velodrome-docs",
+  "name": "expandex-docs",
   "version": "1.0.0",
-  "description": "Velodrome Finance Product Documentation",
+  "description": "Expand exchange Product Documentation",
   "main": "index.js",
-  "repository": "https://github.com/velodrome-finance/docs/",
-  "author": "Velodrome Chads",
+  "repository": "https://github.com/hirofinance/docs/",
+  "author": "Expandex Chads",
   "license": "MIT",
   "private": true
 }
