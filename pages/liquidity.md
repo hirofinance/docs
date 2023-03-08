@@ -29,9 +29,9 @@ The _deeper_ the liquidity of a given pool (higher value locked), the smaller th
 ## Fees
 
 On Expand Exchange the trading fees are kept in the originally traded tokens
-(if you trade `$USDC` and `$VELO` the fees will be kept in the same tokens).
+(if you trade `$USDC` and `$EXPD` the fees will be kept in the same tokens).
 
-The trading fees for both liquidity pool types are 0.02%, and can be adjusted
+The trading fees for both liquidity pool types are 0%, and can be adjusted
 for up to 0.05%.
 
 The Variable and Stable liquidity pools can be assigned different trading fees
