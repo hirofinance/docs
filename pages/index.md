@@ -5,7 +5,7 @@ import Callout from 'nextra-theme-docs/callout'
 
 # About
 
-Expand Exchange, at its core, is a solution for protocols on [arbitrum](https://www.arbirtrum.io/) to properly incentivize liquidity for their own use cases.
+Expand Exchange, at its core, is a solution for protocols on [arbitrum](https://www.arbitrum.io/) to properly incentivize liquidity for their own use cases.
 Building on top of the groundwork laid out by Solidly, our team has addressed that first iteration's core issues to realize its full potential.
 
 <Callout emoji="⚠️">
