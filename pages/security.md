@@ -11,30 +11,18 @@ import Callout from 'nextra-theme-docs/callout'
 | Contract Name | Contract Address | Network |
 | --- | --- | --- |
 | EXPD               | [0x2eE985d52677BD026a3f3fBD828cE96587de0A80](https://arbiscan.io/address/0x2eE985d52677BD026a3f3fBD828cE96587de0A80) | Aribitrum |
-| GaugeFactory       | [0xf229505f22e56fbe8215B8a1e96F090aD9Ee418e]
-(https://arbiscan.io/address/0xf229505f22e56fbe8215B8a1e96F090aD9Ee418e#code) | Aribitrum |
-| BribeFactory       | [0xE0746B5Db886d2F09F1D36E029c6C77b4C02Ec44]
-(https://arbiscan.io/address/0xE0746B5Db886d2F09F1D36E029c6C77b4C02Ec44#code) | Aribitrum |
-| WrappedBribeFactory| [0x3767570089fbF5e5041Cbcf0AaF33cf190763428]
-(https://arbiscan.io/address/0x3767570089fbF5e5041Cbcf0AaF33cf190763428#code) | Aribitrum |
-| PairFactory        | [0xf6bD71a33c8Df0b1669E593dfD93bbfcb393c4b3]
-(https://arbiscan.io/address/0xf6bD71a33c8Df0b1669E593dfD93bbfcb393c4b3#code) | Aribitrum |
-| Router             | [0xC7Eafd56c3845834A3e96942e404f7Cbb9A9e8d8]
-(https://arbiscan.io/address/0x9c12939390052919aF3155f41Bf4160Fd3666A6f#code) | Aribitrum |
-| EXPDLibrary        | [0x90C5bE0747434de77A5BD8E9e3287bA61151dBC2]
-(https://arbiscan.io/address/0x90C5bE0747434de77A5BD8E9e3287bA61151dBC2#code) | Aribitrum |
-| VeArtProxy         | [0xcd81A5683E3dc9FEdaC3755E31440Ed637556eAB]
-(https://arbiscan.io/address/0xcd81A5683E3dc9FEdaC3755E31440Ed637556eAB#code) | Aribitrum |
-| VotingEscrow       | [0xC14384d1b49f1312614333DDe8feEE1341Db76Db]
-(https://arbiscan.io/address/0xC14384d1b49f1312614333DDe8feEE1341Db76Db#code) | Aribitrum |
-| RewardsDistributor | [0xA50c7Da8de8244F99e6f9a01cd80aDc21EbCAC83]
-(https://arbiscan.io/address/0xA50c7Da8de8244F99e6f9a01cd80aDc21EbCAC83#code) | Aribitrum |
-| Voter              | [0xD29A6E140226ff6AcDD94D32483b03Be20AAFC8b]
-(https://arbiscan.io/address/0xD29A6E140226ff6AcDD94D32483b03Be20AAFC8b#code) | Aribitrum |
-| Minter             | [0xb33d56f7021051abbBF044f545d8a8eCA96a391B]
-(https://arbiscan.io/address/0xb33d56f7021051abbBF044f545d8a8eCA96a391B#code) | Aribitrum |
-| Treasury           | [0xa715921ad0B96331033B8945eDc1E0E3B0C91739]
-(https://arbiscan.io/address/0xa715921ad0B96331033B8945eDc1E0E3B0C91739#code) | Aribitrum |
+| GaugeFactory       | [0xf229505f22e56fbe8215B8a1e96F090aD9Ee418e](https://arbiscan.io/address/0xf229505f22e56fbe8215B8a1e96F090aD9Ee418e) | Aribitrum |
+| BribeFactory       | [0xE0746B5Db886d2F09F1D36E029c6C77b4C02Ec44](https://arbiscan.io/address/0xE0746B5Db886d2F09F1D36E029c6C77b4C02Ec44) | Aribitrum |
+| WrappedBribeFactory| [0x3767570089fbF5e5041Cbcf0AaF33cf190763428](https://arbiscan.io/address/0x3767570089fbF5e5041Cbcf0AaF33cf190763428) | Aribitrum |
+| PairFactory        | [0xf6bD71a33c8Df0b1669E593dfD93bbfcb393c4b3](https://arbiscan.io/address/0xf6bD71a33c8Df0b1669E593dfD93bbfcb393c4b3) | Aribitrum |
+| Router             | [0xC7Eafd56c3845834A3e96942e404f7Cbb9A9e8d8](https://arbiscan.io/address/0x9c12939390052919aF3155f41Bf4160Fd3666A6f) | Aribitrum |
+| EXPDLibrary        | [0x90C5bE0747434de77A5BD8E9e3287bA61151dBC2](https://arbiscan.io/address/0x90C5bE0747434de77A5BD8E9e3287bA61151dBC2) | Aribitrum |
+| VeArtProxy         | [0xcd81A5683E3dc9FEdaC3755E31440Ed637556eAB](https://arbiscan.io/address/0xcd81A5683E3dc9FEdaC3755E31440Ed637556eAB) | Aribitrum |
+| VotingEscrow       | [0xC14384d1b49f1312614333DDe8feEE1341Db76Db](https://arbiscan.io/address/0xC14384d1b49f1312614333DDe8feEE1341Db76Db) | Aribitrum |
+| RewardsDistributor | [0xA50c7Da8de8244F99e6f9a01cd80aDc21EbCAC83](https://arbiscan.io/address/0xA50c7Da8de8244F99e6f9a01cd80aDc21EbCAC83) | Aribitrum |
+| Voter              | [0xD29A6E140226ff6AcDD94D32483b03Be20AAFC8b](https://arbiscan.io/address/0xD29A6E140226ff6AcDD94D32483b03Be20AAFC8b) | Aribitrum |
+| Minter             | [0xb33d56f7021051abbBF044f545d8a8eCA96a391B](https://arbiscan.io/address/0xb33d56f7021051abbBF044f545d8a8eCA96a391B) | Aribitrum |
+| Treasury           | [0xa715921ad0B96331033B8945eDc1E0E3B0C91739](https://arbiscan.io/address/0xa715921ad0B96331033B8945eDc1E0E3B0C91739) | Aribitrum |
 
 ## Differences from Solidly
 
