@@ -62,9 +62,3 @@ AMM pricing equations, where:
  * `x` is the amount of first asset in the pool
  * `y` is the amount of second asset in the same pool
  * `k` is a fixed constant
-
-<Bleed>
-  <iframe src="https://www.desmos.com/calculator/yiwx8ev1oh?embed" width="100%" height="700"></iframe>
-</Bleed>
-
-
