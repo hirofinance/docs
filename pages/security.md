@@ -10,8 +10,7 @@ import Callout from 'nextra-theme-docs/callout'
 
 | Contract Name | Contract Address | Network |
 | --- | --- | --- |
-| EXPD               | [0x2eE985d52677BD026a3f3fBD828cE96587de0A80]
-(https://arbiscan.io/address/0x2eE985d52677BD026a3f3fBD828cE96587de0A80) | Aribitrum |
+| EXPD               | [0x2eE985d52677BD026a3f3fBD828cE96587de0A80](https://arbiscan.io/address/0x2eE985d52677BD026a3f3fBD828cE96587de0A80) | Aribitrum |
 | GaugeFactory       | [0xf229505f22e56fbe8215B8a1e96F090aD9Ee418e]
 (https://arbiscan.io/address/0xf229505f22e56fbe8215B8a1e96F090aD9Ee418e#code) | Aribitrum |
 | BribeFactory       | [0xE0746B5Db886d2F09F1D36E029c6C77b4C02Ec44]
