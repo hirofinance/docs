@@ -21,5 +21,4 @@ Expand Exchane is a project built based on the original designs of Andre Cronje'
 ## Resources
 
 * Website: https://expand.exchange
-* Twitter: https://twitter.com/expandFi
 * Discord: https://discord.gg/SffY7ecFBT
