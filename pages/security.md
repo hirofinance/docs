@@ -59,7 +59,7 @@ Here is a list of key differences in the Expand Finance contracts.
     for a veNFT aggregator (more on this later...).
   - **Removed negative voting.** We found negative voting to be zero-sum for
     Solidly, so we decided to remove it.
-  - **Team emissions.** 3% of new emissions will be sent to a team address, meant
+  - **Team emissions.** 5% of new emissions will be sent to a team address, meant
     to cover on-going expenses and future development.
 
 ### Small changes
