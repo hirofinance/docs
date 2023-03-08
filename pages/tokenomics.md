@@ -41,39 +41,15 @@ explain how it helps the incentives flow to the most valuable of the ecosystem
 liquidity pools.
 
 ## Initial Distribution
-The initial supply of `$EXPD` is 800M.
+The initial supply of `$EXPD` is 700M.
 
-At launch 500M `EXPD` were minted. 
-* there is a private seed sale a small amount for using LP.
+At launch 400M `EXPD` were minted. 
+* there is a private seed sale a small amount for using LP. (50M reserved, 350M will be send treasury)
 ### Locked As NFTs
-300M `EXPD` were locked for 4 years in `veEXPD` of various sizes. 100M, 50M, 1M, 5M These veNFT are described below. 
-* 100M of 300M were allocated for Expand Trasury.
-* 100M of 300M were allocated for the team
-* 100M of 300M are allocated for project partners and public sales
-
-<Bleed>
-  <Chart
-    chartType="PieChart"
-    data={[
-      [ "Receivers", "Amount" ],
-      [ "Protocol Owned NFTs", 100 ],
-      [ "Expand Team NFTs", 100],
-      [ "Partner Protocol/DAOs NFTs", 100],
-      [ "Team Controlled Initial Liquidity", 10],
-      [ "Protocol FLOW Fund", 490]
-    ]}
-    options={{
-      title: "FLOW Distribution (M)",
-      backgroundColor: '#111111',
-      colors: ['#58FF33', '#43CD24', '#37A220', '#297818', '#CCFF2C', '#367A2B' ],
-      legend: {textStyle: {color: 'white' }},
-      pieHole: 0.4,
-      titleTextStyle: { color: 'white' },
-    }}
-    width={"100%"}
-    height={"600px"}
-  />
-</Bleed>
+300M `EXPD` were locked for 4 years in `veEXPD` of various sizes. 200M, 50M These veNFT are described below. 
+* 200M of 300M were allocated for Expand Trasury.
+* 15M of 300M were allocated for the team
+* 85M of 300M are allocated for project partners and public sales ( will be used voting rental )
 
 ## Emissions
 Weekly emissions start at 15M `$EXPD` (3.75% of the initial supply)
